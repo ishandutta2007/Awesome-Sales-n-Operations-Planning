@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -40,63 +40,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Kinaxis](https://www.kinaxis.com/)**  
-
-  Concurrent planning platform (Maestro / RapidResponse) strong in real-time S&OP, supply planning, scenario evaluation, and cross-functional decision support.
-
-
-
-- **[Anaplan](https://www.anaplan.com/)**  
-
-  Connected planning platform widely used for S&OP and IBP, linking operational plans to financial outcomes with strong modeling flexibility.
-
-
-
-- **[Blue Yonder](https://blueyonder.com/)**  
-
-  AI-driven supply chain and S&OP platform with deep demand, supply, inventory, and fulfillment planning capabilities.
-
-
-
-- **[OMP](https://www.omp.com/)**  
-
-  Advanced planning and optimization suite particularly strong in process manufacturing, constraint-based supply planning, and end-to-end planning.
-
-
-
-- **[Logility](https://www.logility.com/)**  
-
-  Supply chain planning platform covering demand, supply, inventory, and S&OP with AI and analytics focus.
-
-
-
-- **[ToolsGroup](https://www.toolsgroup.com/)**  
-
-  Demand and inventory planning specialist with strong probabilistic forecasting and service-level optimization often used within S&OP processes.
-
-
-
-- **[RELEX Solutions](https://www.relexsolutions.com/)**  
-
-  Unified retail and supply chain planning platform strong in demand forecasting, replenishment, and collaborative planning.
-
-
-
-- **[John Galt Solutions](https://johngalt.com/)**  
-
-  Demand planning and S&OP software focused on forecasting accuracy and process support for mid-market and enterprise teams.
-
-
-
-- **[Arkieva](https://arkieva.com/)**  
-
-  Supply chain planning and S&OP solution emphasizing practical, usable planning for manufacturing and distribution.
-
-
-
-- **[Oracle Supply Chain Planning](https://www.oracle.com/scm/)**  
-
-  Oracle’s cloud supply chain planning suite covering demand, supply, S&OP, and related planning processes within the broader Oracle ecosystem.
+| Platform | Description & Key Capabilities | Starting Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Kinaxis](https://www.kinaxis.com/)** | Concurrent planning platform (Maestro / RapidResponse) for real-time S&OP, multi-tier supply planning, what-if scenario modeling, and cross-functional orchestration. | Starting at ~$50,000/year (~$4,166/month base tier for Planning One; enterprise deployments scale to $100k–$250k+/year) | No permanent free tier; 30-day proof-of-concept (POC) sandbox and business performance assessment for qualified enterprise accounts |
+| **[Anaplan](https://www.anaplan.com/)** | Connected planning platform linking operational S&OP/IBP plans to financial forecasts with dynamic multidimensional modeling and calculation engine. | Starting at ~$30,000/year (~$2,500/month base subscription for standard workspace and model builder licensing) | No permanent commercial free tier; 90-day free trial workspace for training & certifications via Anaplan Talent Builder / Academy |
+| **[Blue Yonder](https://blueyonder.com/)** | AI-driven supply chain platform with end-to-end demand sensing, constraint-based supply balancing, inventory optimization, and S&OP. | Starting at ~$50,000/year (~$4,166/month base tier for core planning modules; enterprise contracts scale by volume and nodes) | No permanent free tier; 30-day guided Proof of Concept (POC) sandbox trial upon enterprise qualification |
+| **[OMP](https://www.omp.com/)** | Advanced planning and optimization suite (Unison Planning) specializing in complex process manufacturing, constraint supply planning, and IBP. | Starting at ~$75,000/year (~$6,250/month base deployment for core Unison Planning modules; scaled on plants/SKUs) | No permanent free tier; 30-day guided Proof of Value (PoV) pilot sandbox environment for qualified enterprise prospects |
+| **[Logility](https://www.logility.com/)** | AI-first supply chain planning platform covering demand forecasting, inventory optimization, sourcing, and collaborative S&OP. | Starting at ~$40,000/year (~$3,333/month base subscription for entry demand/supply planning modules) | No permanent free tier; 30-day structured Proof of Concept (PoC) pilot evaluation upon vendor approval |
+| **[ToolsGroup](https://www.toolsgroup.com/)** | Demand and inventory planning specialist (Service Optimizer 99+) with probabilistic forecasting and automated service-level optimization in S&OP. | Starting at $500/month (Pay-As-You-Grow early tier) up to ~$35,000/year base for enterprise SO99+ platform | No permanent free tier; 30-day guided Proof of Concept (PoC) trial and historical dataset modeling evaluation |
+| **[RELEX Solutions](https://www.relexsolutions.com/)** | Unified retail and consumer goods supply chain platform providing automated demand forecasting, replenishment, and integrated S&OP. | Starting at ~€3,000/month (~$39,000/year base entry tier for mid-market retail modules; scales by store/SKU count) | No permanent free tier; 30-day Proof of Value (PoV) pilot evaluation for qualified retail & CPG enterprise prospects |
+| **[John Galt Solutions](https://johngalt.com/)** | Demand planning and S&OP software (Atlas Planning Suite / ForecastX) focused on forecasting accuracy, multi-tier supply, and workflow automation. | Starting at $99/month (ForecastX standalone edition) or ~$25,000/year base for Atlas Planning Suite | 15-day free trial for ForecastX edition with full feature access; 30-day guided sandbox pilot for Atlas Planning Suite |
+| **[Arkieva](https://arkieva.com/)** | Supply chain planning and S&OP suite delivering multi-echelon inventory optimization, finite capacity scheduling, and scenario collaboration. | Starting at $500/month (Arkieva+ mid-market modular tier) or ~$25,000/year base for enterprise S&OP suite | Free forever plan via standalone Swifcast tool (limited to baseline demand forecasting & ROI analysis); 14-day free trial for Arkieva+ modules |
+| **[Oracle Supply Chain Planning](https://www.oracle.com/scm/)** | Oracle Fusion Cloud SCM suite covering demand management, supply planning, and sales & operations planning within the Oracle ecosystem. | Starting at $500/month per Hosted Named User (Oracle Demand Management / S&OP Cloud list price; 10-user minimum ~$5,000/month) | 30-day Oracle Cloud Free Trial with $300 cloud credits + Always Free infrastructure tier; SCM Cloud planning modules evaluated via 30-day sales-assisted sandbox |
 
 
 
