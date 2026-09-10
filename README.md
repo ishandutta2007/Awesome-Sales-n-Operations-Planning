@@ -73,7 +73,7 @@ flowchart LR
 
 *Sorted by GitHub Star count in descending order.*
 
-| 📦 Repository | ⭐ Stars | 🛠️ Category | 📖 Description & S&OP Planning Utility |
+| 📦 Repository | ⭐ Github_Stars | 🛠️ Category | 📖 Description & S&OP Planning Utility |
 | :--- | :--- | :--- | :--- |
 | **[odoo/odoo](https://github.com/odoo/odoo)** | <a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="odoo stars"/></a> | 🏭 ERP / MRP Engine | Full-featured open-source ERP with Material Requirements Planning (MRP), inventory tracking, and production work-center scheduling suitable for mid-market operational execution. |
 | **[facebook/prophet](https://github.com/facebook/prophet)** | <a href="https://github.com/facebook/prophet/stargazers"><img src="https://img.shields.io/github/stars/facebook/prophet?style=social&color=white" alt="prophet stars"/></a> | 📈 Demand Forecasting | Fast and automated procedure for forecasting time-series data based on an additive model with non-linear trends, multi-period seasonality, and holiday effects. |
